@@ -1,2 +1,2 @@
-# Popcorn
-Popcorn Executor is a revamp of KRNL.
+# Popcorn Executor
+Popcorn is a powerful and streamlined Roblox executor that builds on the legacy of KRNL, bringing enhanced performance and reliability to scripting on the Roblox platform. With a user-friendly interface and improved execution speed, Popcorn offers advanced features designed for both novice and experienced scripters. Whether you’re executing complex scripts or exploring new possibilities in game modification, Popcorn delivers a smooth and efficient experience. Its revamped codebase ensures better stability, with a focus on user privacy and security, making it a top choice for those looking to push the boundaries of Roblox scripting.
