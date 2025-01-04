@@ -1,2 +1,19 @@
 # Popcorn Executor
-Popcorn is a powerful and streamlined Roblox executor that builds on the legacy of KRNL, bringing enhanced performance and reliability to scripting on the Roblox platform. With a user-friendly interface and improved execution speed, Popcorn offers advanced features designed for both novice and experienced scripters. Whether you’re executing complex scripts or exploring new possibilities in game modification, Popcorn delivers a smooth and efficient experience. Its revamped codebase ensures better stability, with a focus on user privacy and security, making it a top choice for those looking to push the boundaries of Roblox scripting.
+Only the top executor out there.
+Built on MainDab.
+They discontinued it.
+What a joke, it was awesome!
+F@#k Byfron.
+Why add such a stupid feature?
+Most useless description award won!
+Yipeee!
+Why are you reading this?
+Go to the release section!
+Oh, you're looking for the Discord server?
+Gotcha! https://discord.gg/fmjeKrWSuc
+Scram now!
+Docs for the executor? Why?
+It's super simple.
+Well, i'm out of space (sorta)
+Goodbye!
+:)
